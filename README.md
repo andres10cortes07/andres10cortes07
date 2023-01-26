@@ -6,7 +6,7 @@
 
 - 📫 Puedes encontrarme en **andres10cortes07@gmail.com**
 
-- 📄 Puedes encontrar mi CV en **https://onx.la/8019f**
+- 📄 Puedes encontrar mi hoja de vida en **https://onx.la/8019f**
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
