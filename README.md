@@ -1,5 +1,5 @@
 <h1 align="center">⚡ Hola, Soy Franklin Cortés ⚡</h1>
-<h3 align="center">Apasionado desarrollador de software responsable, dinámico y creativo, con facilidad de adaptación y capacidad de trabajar en equipo, en condiciones de alta presión, con iniciativa para resolver problemas eficientemente y lograr las metas y objetivos trazados por la empresa. Este es mi perfil donde encontraras informacion acerca de mi como habilidades, experiencia y titulos estudiantiles.</h3>
+<h3 align="center">Apasionado desarrollador de software responsable, dinámico y creativo, con facilidad de adaptación y capacidad de trabajar en equipo, con iniciativa para resolver problemas eficientemente y lograr las metas y objetivos trazados por la empresa. Este es mi perfil donde encontraras informacion acerca de mi como habilidades, experiencia y titulos estudiantiles.</h3>
 
 
 - 💬 Puedes preguntarme de **HTML, CSS, JAVASCRIPT, ANGULAR, PYTHON & JAVA**
