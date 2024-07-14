@@ -3,7 +3,7 @@
 
 - 📫 Puedes encontrarme en **andres10cortes07@gmail.com**
 
-- 📄 Puedes encontrar mi hoja de vida en **https://n9.cl/ae0ss**
+- 📄 Puedes encontrar mi hoja de vida en **https://onx.la/99711**
 
 - 💼 Conoce más de mi en **https://andres10cortes07.github.io/Mi-Portafolio/**
 
